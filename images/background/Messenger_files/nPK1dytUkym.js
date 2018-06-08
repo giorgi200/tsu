@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["2nfz+"]); }
+
+__d("WorkChatDoNotDisturbStatusReact.bs",["ReasonReact.bs","WorkChatDoNotDisturbStatus"],(function(a,b,c,d,e,f){"use strict";__p&&__p();function a(a,c,d,e){var f=b("WorkChatDoNotDisturbStatus").component;if(f==null){var g=b("ReasonReact.bs").statelessComponent("WorkChatDoNotDisturbStatusReact.re");return[g[0],g[1],g[2],g[3],g[4],g[5],g[6],g[7],function(){return null},g[9],g[10],g[11],g[12]]}else return b("ReasonReact.bs").wrapJsForReason(f,{className:a,thread:c,onStatusUpdate:d},e)}f.make=a}),null);

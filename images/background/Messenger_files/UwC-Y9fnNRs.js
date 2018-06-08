@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["KQNmP"]); }
+
+__d("WorkChatCustomMenuItem.bs",["ReasonReact.bs","bs_js_null_undefined","WorkChatCustomMenuItem"],(function(a,b,c,d,e,f){"use strict";function a(a,c,d,e,f){return b("ReasonReact.bs").wrapJsForReason(b("WorkChatCustomMenuItem"),{href:b("bs_js_null_undefined").fromOption(a),label:c,onclick:b("bs_js_null_undefined").fromOption(d),target:b("bs_js_null_undefined").fromOption(e)},f)}f.make=a}),null);
